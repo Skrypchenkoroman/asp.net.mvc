@@ -1,0 +1,11 @@
+D:\Programming\Projects\asp.net.mvc\AspNetCore\AspNetCore.WebApplication\bin\Debug\netcoreapp2.0\AspNetCore.WebApplication.deps.json
+D:\Programming\Projects\asp.net.mvc\AspNetCore\AspNetCore.WebApplication\bin\Debug\netcoreapp2.0\AspNetCore.WebApplication.runtimeconfig.json
+D:\Programming\Projects\asp.net.mvc\AspNetCore\AspNetCore.WebApplication\bin\Debug\netcoreapp2.0\AspNetCore.WebApplication.runtimeconfig.dev.json
+D:\Programming\Projects\asp.net.mvc\AspNetCore\AspNetCore.WebApplication\bin\Debug\netcoreapp2.0\AspNetCore.WebApplication.dll
+D:\Programming\Projects\asp.net.mvc\AspNetCore\AspNetCore.WebApplication\bin\Debug\netcoreapp2.0\AspNetCore.WebApplication.pdb
+D:\Programming\Projects\asp.net.mvc\AspNetCore\AspNetCore.WebApplication\obj\Debug\netcoreapp2.0\AspNetCore.WebApplication.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\asp.net.mvc\AspNetCore\AspNetCore.WebApplication\obj\Debug\netcoreapp2.0\AspNetCore.WebApplication.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\asp.net.mvc\AspNetCore\AspNetCore.WebApplication\obj\Debug\netcoreapp2.0\AspNetCore.WebApplication.AssemblyInfoInputs.cache
+D:\Programming\Projects\asp.net.mvc\AspNetCore\AspNetCore.WebApplication\obj\Debug\netcoreapp2.0\AspNetCore.WebApplication.AssemblyInfo.cs
+D:\Programming\Projects\asp.net.mvc\AspNetCore\AspNetCore.WebApplication\obj\Debug\netcoreapp2.0\AspNetCore.WebApplication.dll
+D:\Programming\Projects\asp.net.mvc\AspNetCore\AspNetCore.WebApplication\obj\Debug\netcoreapp2.0\AspNetCore.WebApplication.pdb
